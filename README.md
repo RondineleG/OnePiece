@@ -1,22 +1,42 @@
 # One Piece
 Bot de negociação de criptomoedas
 
-Plano de desenvolvimento para um bot de compra e venda de criptomoedas com C# e ReactJS:
+O projeto tem como objetivo criar uma plataforma para compra e venda de criptomoedas, oferecendo uma experiência segura, rápida e intuitiva para os usuários. A plataforma deverá ser capaz de lidar com transações em diferentes criptomoedas, incluindo as mais populares como Bitcoin, Ethereum, Ripple, Litecoin, entre outras.
 
-Requisitos: Analisar os requisitos do usuário e definir as funcionalidades e a arquitetura do sistema. Os requisitos podem incluir a integração com exchanges de criptomoedas, estratégias de negociação, ferramentas de análise técnica, segurança e confiabilidade do bot.
+Plano para desenvolver um bot em várias sprints:
 
-Design: Criar um design de software que atenda aos requisitos estabelecidos. O design deve ser escalável e fácil de manter. Também é importante garantir que o sistema seja seguro e eficiente. O design pode incluir a separação de responsabilidades, a escolha de padrões de design e a criação de uma interface de usuário intuitiva.
+Sprint 1:
 
-Implementação: Implementar o sistema de negociação de criptomoedas usando C# e o .NET Framework. Realizar análises técnicas usando bibliotecas populares, como Math.NET Numerics e TA-Lib. Implementar a interface do usuário utilizando ReactJS. É importante implementar a integração com as exchanges de criptomoedas e desenvolver as estratégias de negociação. Também é importante garantir que o bot seja seguro e eficiente.
+Definir os requisitos do bot e suas funcionalidades;
+Estudar as APIs das exchanges de criptomoedas para implementar as transações;
+Configurar o ambiente de desenvolvimento e criar a base do código do bot.
 
-Testes: Realizar testes unitários, testes de integração e testes de aceitação para garantir que o software esteja funcionando corretamente. É importante testar todas as funcionalidades implementadas para garantir que o sistema esteja funcionando corretamente.
+Sprint 2:
 
-Documentação: Criar documentação completa para o projeto, incluindo guias de instalação, configuração e uso. Também é importante criar documentação para os desenvolvedores que possam trabalhar no projeto no futuro.
+Implementar a funcionalidade de compra de criptomoedas no bot;
+Realizar testes para garantir a segurança e eficácia da funcionalidade implementada;
+Configurar a integração com as exchanges.
 
-Lançamento: Fazer o lançamento oficial do bot de compra e venda de criptomoedas e disponibilizá-lo para os usuários. Certificar-se de que todas as funcionalidades implementadas estejam funcionando corretamente antes do lançamento.
+Sprint 3:
 
-Manutenção: Continuar a atualizar e aprimorar o bot, corrigindo bugs e adicionando novos recursos conforme necessário. É importante realizar atualizações regulares para manter o sistema seguro e eficiente.
+Implementar a funcionalidade de venda de criptomoedas no bot;
+Realizar testes para garantir a segurança e eficácia da funcionalidade implementada;
+Configurar a integração com as exchanges.
 
-Criar um bot de compra e venda de criptomoedas com uma interface de usuário intuitiva e escalável, utilizando as tecnologias C# e ReactJS. 
-O bot será fácil de manter e atualizar, permitindo que os usuários continuem a usá-lo com confiança.
-Além disso, o bot será seguro e eficiente, garantindo a segurança das negociações de criptomoedas
+Sprint 4:
+
+Implementar funcionalidades de segurança, como autenticação de usuário e monitoramento de transações suspeitas;
+Realizar testes para garantir a efetividade das funcionalidades de segurança implementadas;
+Configurar o bot para enviar notificações em caso de atividades suspeitas.
+
+Sprint 5:
+
+Implementar funcionalidades adicionais, como consultas de saldo e histórico de transações;
+Realizar testes para garantir a efetividade das funcionalidades adicionais implementadas;
+Configurar o bot para lidar com diferentes criptomoedas.
+
+Sprint 6:
+
+Realizar testes finais em todas as funcionalidades implementadas;
+Realizar testes de carga para garantir que o bot possa lidar com um grande volume de
+Fazer os ajustes necessários para garantir a eficiência e estabilidade do bot.
